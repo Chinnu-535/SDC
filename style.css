@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#quiz-container {
+    margin: 20px auto;
+    width: 50%;
+    text-align: left;
+}
+.question {
+    margin-bottom: 10px;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
